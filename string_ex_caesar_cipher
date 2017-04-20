@@ -1,0 +1,3 @@
+string = ('abcdefghijklmnopqrstuvwxyz')
+string2 = indexof.string(string)
+print(string2)
