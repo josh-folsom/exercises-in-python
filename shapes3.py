@@ -1,8 +1,10 @@
 from turtle import *
 
-def triangle():
+def triangle(arg1, arg2, arg3):
     for i in range(3):
-        forward(100)
+        forward(arg1)
+        filling(arg2)
+        color(arg3)
         right(120)
 
 def square():
@@ -33,5 +35,4 @@ def star():
 def mycircle():
     width(1)
     circle(90)
-
-mainloop()
+    mainloop()

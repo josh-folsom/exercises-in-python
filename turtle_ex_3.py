@@ -1,5 +1,5 @@
 from turtle import *
-from shapes2 import *
+from shapes import *
 
 triangle()
 square()
@@ -8,3 +8,5 @@ hexagon()
 octagon()
 star()
 mycircle()
+
+mainloop()
