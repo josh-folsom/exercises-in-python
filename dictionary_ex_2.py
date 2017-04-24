@@ -27,4 +27,4 @@ ramit = {
 #print(ramit['friends'][0]['email'])
 
 #4 Write a python expression that gets the second of Jan's two interests.
-print(ramit['friends'][1]['interests'][1])
+#print(ramit['friends'][1]['interests'][1])
