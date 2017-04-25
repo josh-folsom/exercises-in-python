@@ -5,9 +5,9 @@
 # the word summary and the letter summary and combines them into one output.
 
 # word summary function
+userinput = input("what file would you like to historgram? ")
 
-
-file=open("paragraph.txt","r+")
+file=open(userinput,"r+")
 wordcount={}
 for word in file.read().split():
     if word not in wordcount:
