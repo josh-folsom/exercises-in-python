@@ -49,9 +49,6 @@ class Person():
 #            newcount = count + 1
 #            print(newcount)
 
-#    def num_unique_people_greeted():
-#        if self
-
 
 sonny = Person('Sonny', 'sonny@hotmail.com', '483-485-4948')
 jordan = Person('Jordan', 'jordan@aol.com', '495-586-3456')
